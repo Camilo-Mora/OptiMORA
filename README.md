@@ -9,11 +9,15 @@
 ### Get the ChromeDriver
 1. Check the version of Chrome you use. Type "Chrome://version" in your Chrome browser. The version is the number in blue. The first numbers are the important ones.
 
-<img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/ChromeVersion.png" width=100% >
+
+<img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/ChromeVersion.png" width=40% >
+
 
 While you are in this part...copy the Profile path (Blue selection in image below), and save it somewhere as you will need it later.
 
+
 <img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/ProfilePath.png" width=40% >
+
 
 2. Google "chromedriver download" or go [Here](https://chromedriver.chromium.org/downloads) and donwload the latest driver for your chrome version. It is the one with the same first numbers. In the case above, it is the one for version 111.
 
@@ -28,16 +32,21 @@ Before runing the app you need to settup Tradinview:
 
 1. Opent TradingView, login and load the strategy you want to optimize. Click "Save" the layaout, 
 
+
 <img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/Save.png" width=40% >
 
+
 copy the Chart Path
+
 <img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/ChartPath.png" width=40% >
 
 Close Chrome.
 
 2. Double click on the app. This will open up two windows, in it paste the Chromeprofile Path and the Chart URL you copied above.
 
+
 <img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/AppGui.png" width=40% >
+
 
 3. Clicking on "Capture" will collect all the paramters in your stretegy.
 
