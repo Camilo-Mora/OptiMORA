@@ -25,6 +25,14 @@ While you are in this part...copy the Profile path (Blue selection in image belo
 
 4. Inside that folder place the Unzipped ChromeDriver you downloaded in step 2.
 
+5. Create an empty folder inside this folder and name it "run", this is where all files will be downloaded to.
+
+6. Set the download folder path in Chrome. Click on the Menu bottom in Chrome (sandwidtch buton on the upper rihgt corner), then click on "Settings"
+
+<img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/Settings.png" width=40% >
+
+The click on "Dowloads", then click on "Change" and direct to the "run" folder you created in step 5.
+<img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/SetDownloadFolder.png" width=40% >
 
 
 ## Instructions
@@ -39,6 +47,7 @@ Before runing the app you need to settup Tradinview:
 copy the Chart Path
 
 <img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/ChartPath.png" width=40% >
+
 
 Close Chrome.
 
