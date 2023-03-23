@@ -57,9 +57,12 @@ Close Chrome.
 <img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/AppGui.png" width=40% >
 
 
-3. Clicking on "Capture" will collect all the paramters in your stretegy.
+3. Clicking on "Capture" will collect all the paramters in your stretegy. Be sure that Chrome is closed. All parameters should now appear in the GUI...You may have to expand it, with the buton shown below.
 
-4. From the form, you can select the parameters you want to optimize, and run the optimizations in the active ticker, the whole watchlist and in the Deepbacktesting.
+<img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/Expand.png" width=40% >
 
-The app only changes the values you "Use" in the GUI... you need to be sure to set any default value, before runing the optmization.
+
+4. From that GUI, you net to tickmark the parameters you want to optmize, and select any values you want. After you have set the pavlue you can optimzie those parameter on the active ticker, the whole watchlist and in the Deepbacktesting, by click on the respective buttons.
+
+The app only optmize values you "Use" in the GUI... you need to be sure to set any default value, before runing the optmization.
 
