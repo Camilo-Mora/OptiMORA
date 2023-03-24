@@ -1,0 +1,4 @@
+selenium==3.141.0
+PyQt5==5.15.9
+python-dotenv==1.0.0
+numpy

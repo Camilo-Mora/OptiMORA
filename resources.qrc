@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>ahronbd.ttf</file>
+  </qresource>
+</RCC>
