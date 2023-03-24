@@ -21,7 +21,7 @@ While you are in this part...copy the Profile path (Blue selection in image belo
 
 2. Google "chromedriver download" or go [Here](https://chromedriver.chromium.org/downloads) and donwload the latest driver for your chrome version. It is the one with the same first numbers. In the case above, it is the one for version 111.
 
-3. Download the .exe file in this reposotiry and put it inside a folder.
+3. Download the OptiMORA.exe file in this reposotiry and put it inside a folder.
 
 4. Inside that folder place the Unzipped ChromeDriver you downloaded in step 2.
 
@@ -52,18 +52,18 @@ copy the Chart Path
 
 Close Chrome.
 
-2. Double click on the app. This will open up two windows, in it paste the Chromeprofile Path and the Chart URL you copied above.
+2. Double click on the app (Be sure that Chrome is closed). This will open up two windows, in it paste the Chromeprofile Path and the Chart URL you copied above.
 
 
 <img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/AppGui.png" width=60% >
 
 
-3. Clicking on "Capture" will collect all the paramters in your stretegy. Be sure that Chrome is closed. All parameters should now appear in the GUI...You may have to expand it, with the buton shown below.
+3. Clicking on "Capture" will collect all the paramters in your stretegy (Be sure that Chrome is closed). All parameters should now appear in the GUI...You may have to expand it, with the buton shown below.
 
 <img src="https://github.com/Camilo-Mora/OptiMORA/blob/main/Images/Expand.png" width=60% >
 
 
-4. From that GUI, you net to tickmark the parameters you want to optmize, and select any values you want. After you have set the pavlue you can optimzie those parameter on the active ticker, the whole watchlist and in the Deepbacktesting, by click on the respective buttons.
+4. From that GUI, you net to tickmark the parameters you want to optmize, and select any values you want. After you have set the values you want to optimzie, the can be tested on the active ticker, the whole watchlist and in the Deepbacktesting, by clicking on the respective buttons.
 
-The app only optmize values you "Use" in the GUI... you need to be sure to set any default value, before runing the optmization.
+The OptiMORA only optmizes values you "Use" in the GUI... you need to be sure to set any default value, before runing the optmization; those default values will not be touched by OptiMora.
 
